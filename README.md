@@ -18,6 +18,8 @@ My Application.app/
 			other.swf
 ```
 
+# Compatibility
+
 -  Intel versions compatible with macOS versions 10.5+.
 -  ARM version compatible with macOS versions 11.0+ (first Apple Silicon OS).
 
