@@ -25,7 +25,7 @@ My Application.app/
 
 To wrap FAT binaries use a FAT binary with the same set of architectures.
 
-NOTE: The binaries are unsigned and arm64 binaries must be signed to run (an ad-hoc signature is the minimum).
+NOTE: The binaries are unsigned and arm64 binaries must be signed to run (ad-hoc signature at minimum).
 
 
 # Building
