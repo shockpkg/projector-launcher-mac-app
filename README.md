@@ -20,7 +20,7 @@ My Application.app/
 
 # Compatibility
 
--  Intel versions compatible with macOS versions 10.5+.
+-  Intel and PPC versions compatible with macOS versions 10.5+.
 -  ARM version compatible with macOS versions 11.0+ (first Apple Silicon OS).
 
 To wrap FAT binaries use a FAT binary with the same set of architectures.
