@@ -21,7 +21,7 @@ const size_t appResourcesL = sizeof(appResources) - 1;
 const char appMacOS[] = "MacOS/";
 const size_t appMacOSL = sizeof(appMacOS) - 1;
 
-inline char * strAlloc(size_t len) {
+static inline char * strAlloc(size_t len) {
 	return (char *)malloc(sizeof(char) * (len + 1));
 }
 

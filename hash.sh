@@ -9,6 +9,7 @@ archs=(
 	'ppc970'
 	'i386'
 	'x86_64'
+	'arm64'
 )
 
 cd 'build'

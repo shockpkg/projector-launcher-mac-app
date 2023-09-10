@@ -13,7 +13,6 @@ archs=(
 )
 sdk='/Developer/SDKs/MacOSX10.5.sdk'
 
-rm -rf "${build}"
 mkdir -p "${build}"
 
 for arch in "${archs[@]}"; do
